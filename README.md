@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thefuriouspanda | Aspiring Data Scientist | Currently Development Officer | Student of IIM Indore
+- 👋 Hi, I’m Deepak Goyal | Aspiring Data Scientist | Currently Development Officer | Student of IIM Indore
 - 👀 I’m interested in -- developing tech skills and provide feasible solutions to existing problems
 - 🌱 I’m currently learning -- Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on -- Data Scientists and enthusiasts
